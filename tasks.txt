@@ -109,6 +109,7 @@ We will follow this professional flow:
 ```bash
 git checkout -b section-1-basics
 ```
+git checkout -b section-2-Python_control_flow
 
 Now you are working on section-1 branch.
 
