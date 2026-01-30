@@ -1,0 +1,1 @@
+ipykernel --- this package we will use to execute the jupyter notebook file

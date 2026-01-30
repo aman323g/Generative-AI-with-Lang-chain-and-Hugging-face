@@ -1,0 +1,3 @@
+conda create -p "D:\Artificical intelligence\venv" python=3.12 -y--- for creating vnev
+conda activate venv/ --- to activate virtual env
+pip
